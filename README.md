@@ -1,3 +1,3 @@
 # Decoder-Ring
 
-Decoder Ring Project for Thinkful
+Javascript project that uses advanced js functions for decoding and encoding messages.
